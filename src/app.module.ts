@@ -20,3 +20,9 @@ import { ConfigModule, ConfigService } from '@nestjs/config';
 export class AppModule { }
     // "start:dev": "nest start --watch",
 // dokiadmin
+// "builds": [
+//   {
+//     "src": "src/main.ts",
+//     "use": "@vercel/node"
+//   }
+// ],
